@@ -3,6 +3,7 @@
   "author": "Anatoliy Poloz <anatoliy.poloz@gmail.com>",
   "version": "0.1.0",
   "private": false,
+  "homepage" : "http://github.com/tolyod/watermelon-watery-react/",
   "dependencies": {
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
