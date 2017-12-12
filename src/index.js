@@ -50,7 +50,7 @@ class App extends React.Component {
 
     return (
       <div>
-        <div className="title">Waith : {inputWeight} kg </div>
+        <div className="title">Weight : {inputWeight} kg </div>
         <div className="circles">
           <div className="range-slider-1">
             <input
