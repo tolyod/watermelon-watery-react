@@ -6,7 +6,7 @@
   "license": "Apache-2.0",
   "homepage": "http://tolyod.github.io/watermelon-watery-react/",
   "dependencies": {
-    "handlebars": "^4.7.6",
+    "handlebars": "^4.7.7",
     "kind-of": "^6.0.3",
     "minimist": "^1.2.2",
     "react": "^16.14.0",
