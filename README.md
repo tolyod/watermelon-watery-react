@@ -1,3 +1,6 @@
+[![Known Vulnerabilities](https://snyk.io/test/github/tolyod/watermelon-watery-react/badge.svg)](https://snyk.io/test/github/tolyod/watermelon-watery-react)
+
+
 # watermelon-watery-react
 reactjs + css : visualization of correlation between mass and percentage of water content in watermelon
 
